@@ -28,8 +28,8 @@
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
 	'Requires Authentication'=> 'No'
-    'username' => 'munirabid50@gmail',
-    'password' => 'Munni11@@',
+    'username' => 'example.com',
+    'password' => 'test',
     'port' => '587'
   );
 
